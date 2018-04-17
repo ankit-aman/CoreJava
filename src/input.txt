@@ -1,0 +1,6 @@
+22, Rajan Anand, 11, 1600000
+23, Swati Patil, 12, 800000
+27, Vijay Chawda, 11, 800000
+29, Basant Mahapatra, 11, 600000
+32, Ajay Patel, 12, 400000
+34, Swaraj Birla, 12, 300000
